@@ -25,7 +25,7 @@ function  kali (a,b){
     return a * b;
 }
 
-let operator = prompt("masukan operator");
+let operator = prompt("masukan operator + - * /");
 var a= parseInt(prompt(`masukan nilai 1:`));
 var b= parseInt(prompt(`masukan nilai 2:`));
 
